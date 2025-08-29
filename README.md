@@ -1,10 +1,20 @@
 # Hi there, I'm Gabe 👋
 
-I'm a second-year Software Engineering student based in the UK, passionate about building iOS apps and creating thoughtful UX/UI experiences. 
+I'm a second-year Software Engineering student, passionate about building iOS apps and creating thoughtful UX/UI experiences. 
+I'm always looking to grow as a developer, collaborate on UI/UX projects, and contribute to creative and meaningful digital experiences.
 
-My primary focus is on Apple platforms using Swift and SwiftUI. My background in photography, media, and computer science gives me a unique perspective on design and development, emphasizing visual composition and user interaction.
+---
 
-WWDC 2025 Swift Student Challenge Winner
+## 🚀 Featured Projects
+
+- **SortLoop**  
+  - iOS app helping users manage recycling through item scanning, pickup scheduling and material information.
+  - Winner of the 2025 Swift Student Challenge.
+  - Designed and implemented UX, ML integration, responsive layouts  
+
+- **ArticleKit**
+  - A Swift package that creates SwiftUI article views from Swift or JSON, supporting images, code blocks, lists, and more.
+  - First Swift package, simple design, fast article detail views  
 
 ---
 
@@ -24,11 +34,8 @@ WWDC 2025 Swift Student Challenge Winner
 
 ---
 
-More coming soon!
-
----
-
 ## 📫 Contact Me
 
-- [Portfolio / Website](https://gabrielw.dev) 
+- [Portfolio / Website](https://gabrielw.dev)
+- [hello@gabrielw.dev](mailto:hello@gabrielw.dev)
 
