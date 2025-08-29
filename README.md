@@ -1,6 +1,10 @@
 # Hi there, I'm Gabe 👋
 
-I'm a second-year Software Engineering student based in the UK, passionate about building iOS apps and creating thoughtful UX/UI experiences. My primary focus is on Apple platforms using Swift and SwiftUI. My background in photography, media, and computer science gives me a unique perspective on design and development, emphasizing visual composition and user interaction.
+I'm a second-year Software Engineering student based in the UK, passionate about building iOS apps and creating thoughtful UX/UI experiences. 
+
+My primary focus is on Apple platforms using Swift and SwiftUI. My background in photography, media, and computer science gives me a unique perspective on design and development, emphasizing visual composition and user interaction.
+
+WWDC 2025 Swift Student Challenge Winner
 
 ---
 
@@ -17,6 +21,10 @@ I'm a second-year Software Engineering student based in the UK, passionate about
 - SwiftUI animations & custom components  
 - iOS accessibility & inclusive design  
 - Building small, fun personal apps
+
+---
+
+More coming soon!
 
 ---
 
