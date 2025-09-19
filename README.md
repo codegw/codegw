@@ -1,7 +1,6 @@
 # Hi there, I'm Gabe 👋
 
-I'm a second-year Software Engineering student, passionate about building iOS apps and creating thoughtful UX/UI experiences. 
-I'm always looking to grow as a developer, collaborate on UI/UX projects, and contribute to creative and meaningful digital experiences.
+I’m a second-year Software Engineering student passionate about both product design and software engineering. I design user-centered interfaces and implement them in Swift, and I’m looking for internship opportunities where I can grow as a designer-engineer and contribute to impactful mobile products.
 
 ---
 
@@ -20,10 +19,10 @@ I'm always looking to grow as a developer, collaborate on UI/UX projects, and co
 
 ## 🛠 Skills & Tools
 
-- **Languages:** Swift, SwiftUI, Python, Java, HTML/CSS  
-- **Tools:** Xcode, VSCode, Git/GitHub, Figma, Sketch, Photoshop  
-- **Focus Areas:** iOS Development, Swift Packages, UI/UX Design, Prototyping, Accessibility, Photography
-
+- **Languages:** Swift · SwiftUI · Python · Java · HTML/CSS  
+- **Tools:** Xcode · VSCode · Git/GitHub · Figma · Sketch · Photoshop 
+- **Focus Areas:** iOS development · UI/UX Design · Prototyping · Accessibility · Photography
+  
 ---
 
 ## 🌱 Currently Exploring
@@ -36,6 +35,6 @@ I'm always looking to grow as a developer, collaborate on UI/UX projects, and co
 
 ## 📫 Contact Me
 
-- [Portfolio / Website](https://gabrielw.dev)
+- [Portfolio](https://gabrielw.dev)
 - [hello@gabrielw.dev](mailto:hello@gabrielw.dev)
 
