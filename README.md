@@ -2,6 +2,8 @@
 
 I’m a second-year Software Engineering student passionate about both product design and software engineering. I design user-centered interfaces and implement them in Swift, and I’m looking for opportunities where I can grow as a designer engineer and contribute to impactful products.
 
+I’m always excited to connect, feel free to reach out!
+
 ---
 
 ## 🚀 Featured Projects
