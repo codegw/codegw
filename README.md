@@ -23,7 +23,7 @@ I’m always excited to connect, feel free to reach out!
 
 ## 🛠 Skills & Tools
 
-- **Languages:** Swift · SwiftUI · Python · Java · HTML/CSS  
+- **Languages:** Swift · SwiftUI · Python · Java · HTML/CSS · C++
 - **Tools:** Xcode · VSCode · Git/GitHub · Figma · Sketch · Photoshop 
 - **Focus Areas:** iOS development · UI/UX Design · Prototyping · Accessibility · Photography
   
