@@ -1,6 +1,6 @@
 # Hi there, I'm Gabe 👋
 
-I’m a second-year Software Engineering student passionate about both product design and software engineering. I design user-centered interfaces and implement them in Swift, and I’m looking for opportunities where I can grow as a designer engineer and contribute to impactful products.
+I’m a second-year Software Engineering student passionate about both product design and software engineering. I design and build user-centered interfaces and I’m looking for opportunities where I can grow as a designer engineer and contribute to impactful products.
 
 I’m always excited to connect, feel free to reach out!
 
@@ -9,13 +9,13 @@ I’m always excited to connect, feel free to reach out!
 ## 🚀 Featured Projects
 
 - **SortLoop**
-  - iOS app helping users manage recycling through item scanning, pickup scheduling and material information.
-  - Winner of the 2025 Swift Student Challenge.
+  - iOS app helping users manage recycling through item scanning, pickup scheduling and material information
+  - Winner of the 2025 Swift Student Challenge
   - Designed and implemented UX, ML integration, responsive layouts
   - [View Project ↗](https://gabrielw.dev/projects/sortloop/sortloop)
 
 - **ArticleKit**
-  - A Swift package that creates SwiftUI article views from Swift or JSON, supporting images, code blocks, lists, and more.
+  - A Swift package that creates SwiftUI article views from Swift or JSON, supporting images, code blocks, lists, and more
   - First Swift package, simple design, fast article detail views
   - [View Repository](https://github.com/codegw/ArticleKit)
 
@@ -31,7 +31,7 @@ I’m always excited to connect, feel free to reach out!
 
 ## 🌱 Currently Exploring
 
-- SwiftUI design & experiences
+- Revisiting Stanford’s CS193p to reinforce modern Swift best practices
 - iOS accessibility & inclusive design  
 - Building small, fun personal apps
 
