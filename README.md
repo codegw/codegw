@@ -1,6 +1,6 @@
 # Hi there, I'm Gabe 👋
 
-I’m a second-year Software Engineering student passionate about both product design and software engineering. I design and build user-centered interfaces and I’m looking for opportunities where I can grow as a designer engineer and contribute to impactful products.
+I’m a second-year Software Engineering student passionate about both product design and software engineering. 
 
 I’m always excited to connect, feel free to reach out!
 
@@ -27,14 +27,6 @@ I’m always excited to connect, feel free to reach out!
 - **Tools:** Xcode · VSCode · Git/GitHub · Figma · Sketch · Photoshop 
 - **Focus Areas:** iOS development · UI/UX Design · Prototyping · Accessibility · Photography
   
----
-
-## 🌱 Currently Exploring
-
-- Revisiting Stanford’s CS193p to reinforce modern Swift best practices
-- iOS accessibility & inclusive design  
-- Building small, fun personal apps
-
 ---
 
 [Portfolio ↗](https://gabrielw.dev) · [hello@gabrielw.dev](mailto:hello@gabrielw.dev)
